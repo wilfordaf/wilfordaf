@@ -12,9 +12,9 @@ My name is **Yurpalov Sergey**, I'm a third year student of [ITMO](https://en.it
 
 ## 📱&nbsp; Contact me
 
-[<img align="left" alt="VK" width="48px" src="https://img.icons8.com/fluency/48/000000/vk-circled.png"/>][vk]
-[<img align="left" alt="TG" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][tg]
-[<img align="left" alt="DS" width="48px" src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/>][ds]
+[<img align="left" alt="VK" width="60px" src="https://img.icons8.com/fluency/48/000000/vk-circled.png"/>][vk]
+[<img align="left" alt="TG" width="60px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][tg]
+[<img align="left" alt="DS" width="60px" src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/>][ds]
 
 [vk]: https://vk.com/wilfordaf
 [tg]: https://t.me/wilfordaf
