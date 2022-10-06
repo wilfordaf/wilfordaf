@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Yurpalov Sergey**, I'm a third year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the programm "_Informational Systems_" from St. Petersburg, Russia. 
+My name is **Yurpalov Sergey**, I'm a third year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Informational Systems_" from Saint Petersburg, Russia. 
 
 **_I'm always open for new opportunities and interesting projects!_**
 
