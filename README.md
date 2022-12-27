@@ -30,9 +30,9 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
 
 ## 📱&nbsp; Contact me
 
-[<img align="left" alt="VK" width="48px" src="https://img.icons8.com/bubbles/50/null/vk-com.png"][vk]
-[<img align="left" alt="TG" width="48px" src="https://img.icons8.com/bubbles/50/null/telegram-app.png"/>][tg]
-[<img align="left" alt="DS" width="48px" src="https://img.icons8.com/bubbles/50/null/discord.png"/>][ds]
+[<img align="left" alt="VK" width="50px" src="https://img.icons8.com/bubbles/50/null/vk-com.png"/>][vk]
+[<img align="left" alt="TG" width="50px" src="https://img.icons8.com/bubbles/50/null/telegram-app.png"/>][tg]
+[<img align="left" alt="DS" width="50px" src="https://img.icons8.com/bubbles/50/null/discord.png"/>][ds]
 
 [vk]: https://vk.com/wilfordaf
 [tg]: https://t.me/wilfordaf
