@@ -17,7 +17,7 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
     - [Semester 4](https://github.com/wilfordaf/IS-2020-4_Sem)
 * 👨 **Third year**:
     - [Semester 5](https://github.com/wilfordaf/IS-2020-5_Sem)
-    - Semester 6
+    - [Semester 6](https://github.com/wilfordaf/IS-2020-6_Sem)
 * 👴 **Fourth year**
     - Semester 7
     - Semester 8
