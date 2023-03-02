@@ -24,8 +24,8 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
 
 ## 📊 &nbsp;Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfordaf&show_icons=true&theme=dracula)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfordaf&layout=compact&count_private=true&langs_count=10&card_width=445&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wilfordaf&show_icons=true&card_width=495&theme=dracula)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilfordaf&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
 ![My GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=wilfordaf&show_icons=true&theme=dracula)
 
 ## 👨‍💻 &nbsp;Tools
