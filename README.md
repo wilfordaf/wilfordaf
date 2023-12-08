@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Yurpalov Sergey**, I'm a fourth year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Informational Systems and Techologies_" from Saint Petersburg, Russia. 
+My name is **Yurpalov Sergey**, I'm a fourth year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Informational Systems and Techologies_" from Saint Petersburg, Russia. Currently working in [BIA Technologies](https://bia-tech.ru/) as NLP ML Engineer.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
