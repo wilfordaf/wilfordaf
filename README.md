@@ -20,7 +20,7 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
     - [Semester 6](https://github.com/wilfordaf/IS-2020-6_Sem)
 * 👴 **Fourth year**
     - [Semester 7](https://github.com/wilfordaf/IS-2020-7_Sem)
-    - Semester 8
+    - [Semester 8](https://github.com/wilfordaf/IS-2020-8_Sem)
 
 ## 📊 &nbsp;Stats
 
