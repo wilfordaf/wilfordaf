@@ -8,7 +8,9 @@ My name is **Yurpalov Sergey**, I'm a fourth year student of [ITMO](https://en.i
 
 ## 📝&nbsp; Studies 
 
-If you've opened this profile to find some solved tasks from ITMO IS course, go ahead:
+If you've opened this profile to find some solved tasks from the ITMO courses, go ahead:
+
+**Bachelors Degree**
 * 👶 **First year**: 
     - [Semester 1](https://github.com/wilfordaf/IS-2020-1_Sem)
     - [Semester 2](https://github.com/wilfordaf/IS-2020-2_Sem)
@@ -21,6 +23,14 @@ If you've opened this profile to find some solved tasks from ITMO IS course, go 
 * 👴 **Fourth year**
     - [Semester 7](https://github.com/wilfordaf/IS-2020-7_Sem)
     - [Semester 8](https://github.com/wilfordaf/IS-2020-8_Sem)
+ 
+**Masters Degree**
+* 💀 **First year**
+    - Semester 9
+    - Semester 10
+* 😇 **Second year**
+    - Semester 11
+    - Semester 12
 
 ## 📊 &nbsp;Stats
 
