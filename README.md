@@ -28,7 +28,7 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
 * 💀 **First year**
     - Semester 9
     - Semester 10
-* 😇 **Second year**
+* 👻 **Second year**
     - Semester 11
     - Semester 12
 
