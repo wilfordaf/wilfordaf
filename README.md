@@ -26,11 +26,11 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
  
 **Masters Degree**
 * 💀 **First year**
-    - Semester 9
-    - Semester 10
+    - Semester 1
+    - Semester 2
 * 👻 **Second year**
-    - Semester 11
-    - Semester 12
+    - Semester 3
+    - Semester 4
 
 ## 📊 &nbsp;Stats
 
