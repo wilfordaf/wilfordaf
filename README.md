@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Yurpalov Sergey**, I'm a fourth year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program "_Informational Systems and Techologies_" from Saint Petersburg, Russia. Currently working in [BIA Technologies](https://bia-tech.ru/) as NLP ML Engineer.
+My name is **Yurpalov Sergey**, I'm a first year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program [AI Talent Hub](https://ai.itmo.ru/) from Saint Petersburg, Russia. Currently working in [BIA Technologies](https://bia-tech.ru/) as Middle NLP MLE.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
@@ -10,7 +10,7 @@ My name is **Yurpalov Sergey**, I'm a fourth year student of [ITMO](https://en.i
 
 If you've opened this profile to find some solved tasks from the ITMO courses, go ahead:
 
-**Bachelors Degree**
+**Bachelors Degree - Informational Systems and Technologies**
 * 👶 **First year**: 
     - [Semester 1](https://github.com/wilfordaf/IS-2020-1_Sem)
     - [Semester 2](https://github.com/wilfordaf/IS-2020-2_Sem)
@@ -24,7 +24,7 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
     - [Semester 7](https://github.com/wilfordaf/IS-2020-7_Sem)
     - [Semester 8](https://github.com/wilfordaf/IS-2020-8_Sem)
  
-**Masters Degree**
+**Masters Degree - Artificial Intelligence**
 * 💀 **First year**
     - [Semester 1](https://github.com/wilfordaf/AI-2024-1_Sem)
     - Semester 2
