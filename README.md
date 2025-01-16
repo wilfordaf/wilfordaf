@@ -2,7 +2,7 @@
 
 ## 🤗 &nbsp;Introduction
 
-My name is **Yurpalov Sergey**, I'm a first year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program [AI Talent Hub](https://ai.itmo.ru/) from Saint Petersburg, Russia. Currently working in [BIA Technologies](https://bia-tech.ru/) as Middle NLP MLE.
+My name is **Yurpalov Sergey**, I'm a first year student of [ITMO](https://en.itmo.ru/en/) university enrolled in the program [AI Talent Hub](https://ai.itmo.ru/) from Saint Petersburg, Russia. Currently working in [BIA Technologies](https://bia-tech.ru/) as NLP Machine Learning Engineer.
 
 **_I'm always open for new opportunities and interesting projects!_**
 
