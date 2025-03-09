@@ -29,7 +29,7 @@ If you've opened this profile to find some solved tasks from the ITMO courses, g
 **Masters Degree - Artificial Intelligence**
 * 💀 **First year**
     - [Semester 1](https://github.com/wilfordaf/AI-2024-1_Sem)
-    - Semester 2
+    - [Semester 2](https://github.com/wilfordaf/AI-2024-2_Sem)
 * 👻 **Second year**
     - Semester 3
     - Semester 4
